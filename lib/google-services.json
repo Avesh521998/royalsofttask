@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176630331571",
+    "project_id": "softtask-86707",
+    "storage_bucket": "softtask-86707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176630331571:android:9a34ddd892fb2b7d6258c6",
+        "android_client_info": {
+          "package_name": "com.example.softtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBREWLIiSJxPR9vYyauoEXaHksWmSk13GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
